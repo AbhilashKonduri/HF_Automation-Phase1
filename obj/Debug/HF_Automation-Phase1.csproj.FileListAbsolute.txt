@@ -1,0 +1,7 @@
+D:\Programming\HF_Automation\C#\HF_Automation-Phase1\bin\Debug\HF_Automation-Phase1.exe.config
+D:\Programming\HF_Automation\C#\HF_Automation-Phase1\bin\Debug\HF_Automation-Phase1.exe
+D:\Programming\HF_Automation\C#\HF_Automation-Phase1\bin\Debug\HF_Automation-Phase1.pdb
+D:\Programming\HF_Automation\C#\HF_Automation-Phase1\obj\Debug\HF_Automation-Phase1.csprojAssemblyReference.cache
+D:\Programming\HF_Automation\C#\HF_Automation-Phase1\obj\Debug\HF_Automation-Phase1.csproj.CoreCompileInputs.cache
+D:\Programming\HF_Automation\C#\HF_Automation-Phase1\obj\Debug\HF_Automation-Phase1.exe
+D:\Programming\HF_Automation\C#\HF_Automation-Phase1\obj\Debug\HF_Automation-Phase1.pdb
